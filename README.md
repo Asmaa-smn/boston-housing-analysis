@@ -37,9 +37,8 @@ Rather than focusing only on the final prediction, this project helped me unders
 
 ## Preview
 
-*(Insert your project screenshot here.)*
 
-![Boston Housing Project](images/boston.png)
+![Boston Housing Project](boston-housing-analysis/images/boston.png)
 
 ---
 
